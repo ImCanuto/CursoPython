@@ -69,4 +69,4 @@ if is_number(num_1) and is_number(num_2):
 else:
     print("Digite um valor válido!")
 
-# No lugar de if e else também foi sugerido a utilização de try e except, que serão explicados futuramente
+# No lugar de if e else também foi sugerido a utilização de try e except, que serão explicados futuramente.
