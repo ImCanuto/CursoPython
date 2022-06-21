@@ -8,14 +8,14 @@ valor = False
 
 # Pass
 if valor:
-    # Pode haver um comentário aqui explicando o que deverá ser adicionado posteriormente
+    # Pode haver um comentário aqui explicando o que deverá ser adicionado posteriormente.
     pass
 else:
     print("Falso")
 
 # Elipsis
 if valor:
-    # Pode haver um comentário aqui explicando o que deverá ser adicionado posteriormente
+    # Pode haver um comentário aqui explicando o que deverá ser adicionado posteriormente.
     ...
 else:
     print("Falso")
